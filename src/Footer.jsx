@@ -4,9 +4,9 @@ export default function Footer() {
     return (
         <footer className="footer">
             <p>
-                Desarrollado por Nombre del Alumno · Curso 2025 &nbsp;
+                Desarrollado por Nathalie Saravia · Curso 2025 &nbsp;
                 <a
-                    href="https://github.com/idoia-durana"
+                    href="https://github.com/nathyesarav"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="github-link"
